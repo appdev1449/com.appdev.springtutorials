@@ -1,5 +1,0 @@
-[
-	"/employee/fetchall",
-	"/employee/fetch/*",
-	"/employee/save"
-]
